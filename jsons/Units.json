@@ -7,7 +7,7 @@
 		"movement": 1,
 		"uniques": [
                     "Can build [Land] improvements on tiles",
-                    "[+50]% construction time for [All] improvement",
+                    "[+50]% construction time for [All] improvements",
                     "Can instantly construct a [Penguin Hatchery] improvement <by consuming this unit>"
                 ],
 		"hurryCostModifier": 150,
