@@ -26,7 +26,7 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-                "uniques":"Destroys tile improvements when attacking",
+                "uniques":["Destroys tile improvements when attacking"],
 		"promotions": ["Logistics","Extended Range"],
 		"attackSound": "phasers",
         "civilopediaText":[{"text":"These raygun-toting, maniacally grinning, sequins-wearing Aliens come in peace! Or they blast you to pieces. Damn if I know which it is."}]
